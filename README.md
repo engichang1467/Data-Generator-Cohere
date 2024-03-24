@@ -39,7 +39,7 @@ Now, you can run the application:
 gradio app.py
 ```
 
-This will start the application, allowing you to chat with the RAG model.
+This will start the application, allowing you to start generate your data.
 
 ## Usage
 
